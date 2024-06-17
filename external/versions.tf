@@ -6,7 +6,7 @@ terraform {
     organization = "zeroinfosec"
 
     workspaces {
-      name = "homelab-external"
+      name = "zeroinfoseclab"
     }
   }
 
